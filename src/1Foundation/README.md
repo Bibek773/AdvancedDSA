@@ -803,10 +803,3 @@ private int findLast(int[] nums, int target) {
 34. Sudoku Solver (LeetCode 37)
 35. Trapping Rain Water (LeetCode 42)
 
-**Study Schedule Recommendation**:
-- **Week 1-2**: Arrays and Strings (Problems 1-10)
-- **Week 3-4**: Linked Lists and Recursion (Problems 11-20)
-- **Week 5-6**: Backtracking and Sorting (Problems 21-30)
-- **Week 7-8**: Binary Search and Advanced Topics (Problems 31-35)
-
-This comprehensive guide covers all the fundamental concepts with practical Java implementations. Practice these problems in order to build a strong foundation in Data Structures and Algorithms!
